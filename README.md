@@ -1,7 +1,16 @@
-### Hi there 👋
+
+<img src="insert.jpg">
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/ShardulTiurwadkar" alt="profile views"> •  
+  <a href="https://twitter.com/intent/follow?screen_name=techfosha&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/techfosha?label=%40techfosha&style=social"></a>  •
+<!--   <a href="#">Blog</a> •
+  <a href="#">Twitter</a> •
+  <a href="#">Work README</a> •
+  <a href="#">Projects</a> -->
+</p>
 
 
-**ShardulTiurwadkar/ShardulTiurwadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
