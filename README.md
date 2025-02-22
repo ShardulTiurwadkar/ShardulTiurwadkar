@@ -20,7 +20,7 @@
 
 <hr>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShardulTiurwadkar&theme=dark" /> </br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShardulTiurwadkar&theme=dark" />
 <!-- ![Shardul's github stats](https://github-readme-stats.vercel.app/api?username=ShardulTiurwadkar&show_icons=true&theme=dark&count_private=true)<br> -->
 <hr>
 
