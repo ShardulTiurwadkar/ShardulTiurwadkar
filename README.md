@@ -18,8 +18,29 @@
   💡 <b>Ask Me About:</b> Anything DevOps-related <br>
   📩 <b>Contact Me:</b> <a href="mailto:devopshardul@gmail.com">devopshardul@gmail.com</a>  
 </p>
+</br>
 
----
+
+
+<h2 align="center">✅ Completed Certifications</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=30&lines=✔️+AZ-900+-+Azure+Fundamentals;✔️+AZ-104+-+Azure+Administrator;✔️+OCI+Foundations;✔️+MongoDB+AI+Associate" alt="Completed Certifications">
+</p>
+
+<p align="center">
+  📜 <b>All certificates are available on</b> 👉 <a href="https://www.linkedin.com/in/shardultiurwadkar/details/certifications/">LinkedIn Certifications</a>
+</p>
+
+
+<h2 align="center">⏳ In-Progress Certifications</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=F79336&center=true&vCenter=true&width=600&height=30&lines=⏳+AWS+Cloud+Practitioner;⏳+AWS+Solutions+Architect+-+Associate;⏳+AZ-400+-+Azure+DevOps+Engineer" alt="In Progress Certifications">
+</p>
+
+
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -30,5 +51,21 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShardulTiurwadkar&theme=github_dark" alt="GitHub Contribution Graph">
 </p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShardulTiurwadkar&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
+
+
+
+
+
+
+
+
+
 
 
