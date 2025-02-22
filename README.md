@@ -18,10 +18,8 @@
 - 📫 How to reach me: MailMe: devopshardul@gmail.com
 
 
-<hr>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShardulTiurwadkar&theme=dark" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShardulTiurwadkar&theme=dark"/>
 <!-- ![Shardul's github stats](https://github-readme-stats.vercel.app/api?username=ShardulTiurwadkar&show_icons=true&theme=dark&count_private=true)<br> -->
-<hr>
 
 
